@@ -1,0 +1,1 @@
+tensorboard --logdir=~/Projects/Keras/_writing/graph
